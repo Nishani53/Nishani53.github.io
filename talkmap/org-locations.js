@@ -5,6 +5,11 @@ var addressPoints = [
     -84.5546295
   ],
   [
+    "Poster Presentation: Assessing the market coverage of different wood products in Michigan<br />Society of American Foresters (SAF) National Convention 2023; Sacramento, California",
+    38.5810606,
+    -121.493895
+  ],
+  [
     "Poster Presentation: Historical trend of market coverage and competition of various wood products in Michigan<br />International Society of Forest Resource Economics (ISFRE) Conference 2023; Houston, Texas",
     29.7589382,
     -95.3676974
