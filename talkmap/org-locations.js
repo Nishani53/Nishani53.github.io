@@ -35,6 +35,11 @@ var addressPoints = [
     -76.610759
   ],
   [
+    "Poster Presentation: Economic impact assessment of utilizing small diameter wood for mass timber production in Oregon and Washington<br />International Mass Timber Conference 2024; Portland, Oregon",
+    45.5202471,
+    -122.674194
+  ],
+  [
     "Poster Presentation: Assessing the market coverage of different wood products in Michigan<br />Society of American Foresters (SAF) National Convention 2022; Baltimore, Maryland",
     39.2908816,
     -76.610759
