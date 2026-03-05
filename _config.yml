@@ -29,7 +29,7 @@ author:
   location         : "Michigan, USA"
   employer         : "Michigan State University/Oregon State University"
   uri              : # URL
-  email            : "khanal[dot]nishani53[@]gmail.com" 
+  email            : "khanal.nishani53@gmail.com" 
 
   # Academic websites
   academia         : https://oregonstate.academia.edu/NareshKhanal # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=oUChg58AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5408-109X"
+  orcid            : "0009-0009-5408-109X"
   semantic         : # URL
   ssrn             : # URL
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -129,7 +129,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "dc8868c348194d15"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
