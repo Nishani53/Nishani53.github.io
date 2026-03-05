@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "nkprofile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Naresh Khanal"
+  pronouns         : # example: "He/Him"  
+  bio              : "Forest Economist | Graduate Research Assistant | Mass Timber & Biomass Utilization | Forest Policy & Economics"
+  location         : "Michigan, USA"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "khanal[dot]nishani53[@]gmail.com" 
 
   # Academic websites
   academia         : # URL
