@@ -15,8 +15,8 @@ var addressPoints = [
     -85.5872286
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Oral Presentation: Locating optimal locations and economic impact assessment of establishing mass timber processing facilities in Michigan<br />Society of American Foresters (SAF) National Convention 2022; Baltimore, Maryland",
+    39.2908816,
+    -76.610759
   ]
 ];
