@@ -10,9 +10,9 @@ var addressPoints = [
     -85.6165976
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Oral Presentation: Market Coverage and Competition of Various Wood Products in Michigan<br />Association of Natural Resource Extension Professionals (ANREP) Conference 2022; Kalamazoo, Michigan",
+    42.291707,
+    -85.5872286
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
