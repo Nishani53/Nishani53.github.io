@@ -12,6 +12,6 @@ This poster, presented at the **SAF National Convention 2022**, examines the spa
 
 ### Photograph
 
-<img src="/images/SAF_2022_poster1.jpg" width="100%" alt="Naresh Khanal SAF 2022 Poster Presentation" />
+<img src="/images/SAF_2022_poster1.png" width="100%" alt="Naresh Khanal SAF 2022 Poster Presentation" />
 
 [Visit SAF 2022 Convention Portal](https://learn.eforester.org/saf-2022)
