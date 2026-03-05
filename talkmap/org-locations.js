@@ -18,5 +18,10 @@ var addressPoints = [
     "Oral Presentation: Locating optimal locations and economic impact assessment of establishing mass timber processing facilities in Michigan<br />Society of American Foresters (SAF) National Convention 2022; Baltimore, Maryland",
     39.2908816,
     -76.610759
+  ],
+  [
+    "Poster Presentation: Assessing the market coverage of different wood products in Michigan<br />Society of American Foresters (SAF) National Convention 2022; Baltimore, Maryland",
+    39.2908816,
+    -76.610759
   ]
 ];
