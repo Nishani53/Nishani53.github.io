@@ -5,6 +5,11 @@ var addressPoints = [
     -84.5546295
   ],
   [
+    "Poster Presentation: Historical trend of market coverage and competition of various wood products in Michigan<br />International Society of Forest Resource Economics (ISFRE) Conference 2023; Houston, Texas",
+    29.7589382,
+    -95.3676974
+  ],
+  [
     "Oral Presentation: Market coverage and competition of various wood products in Michigan<br />International Society of Forest Resource Economics (ISFRE) Conference 2022; Traverse City, Michigan",
     44.7606481,
     -85.6165976
