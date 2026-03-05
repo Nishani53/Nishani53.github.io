@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Poster Presentation: Identifying optimal locations for establishing mass timber processing facilities in Michigan<br />International Society of Forest Resource Economics (ISFRE) Conference 2022; Traverse City, Michigan",
+    44.7606481,
+    -85.6165976
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
