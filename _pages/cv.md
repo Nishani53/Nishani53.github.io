@@ -21,7 +21,7 @@ Education
 
 Professional and Research Experience
 ======
-* **2023-Present: Graduate Research Assistant**, SSMART Forestry Lab, Oregon State University.
+* **2023-2025: Graduate Research Assistant**, SSMART Forestry Lab, Oregon State University.
   * *MSc Thesis Project*: From Restoration to Revenue: Identifying High-Risk Forests and Assessing the Economic Impact of Low-Value Timber in Mass Timber Production.
 * **2023: Graduate Research Assistant**, Natural Resource Economics and Social Sciences Lab, Michigan State University.
   * *Thesis Title*: “Assessing Market Reach and Competitiveness of Different Forest Commodities and Evaluating Potential Location, Feedstock Availability, and Economic Impacts of Mass Timber Production in Michigan.”
