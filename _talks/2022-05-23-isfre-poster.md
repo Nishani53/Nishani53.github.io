@@ -17,5 +17,3 @@ This poster was presented at the **ISFRE 2022 Conference** in Traverse City. The
 
 [Visit Conference Website](https://www.canr.msu.edu/FERM/uploads/2022ISFRE/index)
 ---
-
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
