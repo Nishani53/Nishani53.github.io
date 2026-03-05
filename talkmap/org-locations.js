@@ -5,6 +5,11 @@ var addressPoints = [
     -84.5546295
   ],
   [
+    "Oral Presentation: Assessing impacts on the local economy of Michigan from mass timber production<br />International Union of Forest Research Organizations (IUFRO) World Congress 2024; Stockholm, Sweden",
+    59.3251172,
+    18.0710935
+  ],
+  [
     "Poster Presentation: Assessing the market coverage of different wood products in Michigan<br />Society of American Foresters (SAF) National Convention 2023; Sacramento, California",
     38.5810606,
     -121.493895
