@@ -26,11 +26,13 @@ author:
   name             : "Naresh Khanal"
   pronouns         : # example: "He/Him"  
   bio              : "Forest Economist, Forestry | Graduate Research Assistant | Mass Timber & Biomass Utilization | Forest Policy & Economics"
-  location         : "Michigan, USA"
-  employer         : "Michigan State University
-                      Oregon State University"
-  uri              : # URL
-  email            : "khanal.nishani53@gmail.com" 
+  location : "Michigan, USA"
+employer : |
+  Michigan State University
+  Oregon State University
+uri      : # URL
+email    : "khanal.nishani53@gmail.com"
+
 
   # Academic websites
   academia         : https://oregonstate.academia.edu/NareshKhanal # URL
