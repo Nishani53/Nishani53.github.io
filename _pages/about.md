@@ -1,56 +1,42 @@
 ---
+layout: archive
+title: "About Me"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+{% include base_path %}
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I am **Naresh Khanal**, a researcher focused on the intersection of forest economics, policy, and regional modeling. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+With an academic foundation rooted in Nepal and the United States, I bring a global and multidisciplinary perspective to forest resource economics and sustainable forest management. I recently completed my MSc at Oregon State University, focusing on evaluating the economic feasibility of utilizing low-value biomass for high-value products like mass timber, particularly in fire-prone landscapes in Oregon’s Blue Mountains.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I hold dual master's degrees in forestry from Oregon State University and Michigan State University, where I led and contributed to projects on forest product markets, economic impact modelling (IMPLAN), and restoration prioritization. My work has involved collaboration with state agencies like the Michigan Department of Natural Resources and research presentations at global conferences, including IUFRO and SAF.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Previously, I contributed to large-scale conservation efforts in Nepal, including drafting national action plans for tiger and dolphin conservation. My fieldwork has taken me from the Himalayas to the forests of the Pacific Northwest, collecting ecological and economic data that inform both conservation and commercial forestry.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+🔍 Key Tools & Skills: Forest economics, ArcGIS, R, Python, IMPLAN, Econometrics, Biomass Modelling, Restoration Optimization, Forest Operations Planning, and Optimization
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+🪵 Research Focus: Valuing non-market forest goods, forest supply chains, forest carbon policy, wood utilization innovation, wildfire risk reduction economics
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+If you’re passionate about forestry innovation, biomass utilization, or the intersection of ecology and economics, let’s connect. I’m always open to collaborations, insights, or conversations about the future of sustainable forest landscapes.
 
-**Markdown generator**
+📧 Contact: khanal.nishani53@gmail.com
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+### Research Focus
+My research combines economic modeling (IMPLAN) with spatial analysis to address critical challenges in:
+* **Forest Resource Economics:** Valuing ecosystem services and optimizing timber supply chains.
+* **Mass Timber & Bioeconomy:** Assessing the market reach and industrial impacts of low-value timber utilization.
+* **Forest Policy:** Analyzing the socio-economic effects of wildfire reduction and regional forest treatments.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Education
+* **PhD in Sustainable Forest Management**, Oregon State University (In Progress)
+* **MSc in Sustainable Forest Management**, Oregon State University, 2025
+* **MSc in Forestry**, Michigan State University, 2023
+* **BSc in Forestry**, Tribhuvan University, Nepal, 2019
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+Beyond my academic research, I contribute to economic policy discussions, particularly regarding trade and monetary dynamics in Nepal. I was recently published in *The Kathmandu Post* discussing the NPR-INR currency peg.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+When I’m not analyzing forest data, I enjoy documenting my travels through photography—you can find some of my work in the [Photographs](/photographs/) section.
+
+[Download my full CV](/cv/) | [Connect on LinkedIn](https://www.linkedin.com/in/nishani53)
