@@ -33,5 +33,10 @@ var addressPoints = [
     "Poster Presentation: Assessing the market coverage of different wood products in Michigan<br />Society of American Foresters (SAF) National Convention 2022; Baltimore, Maryland",
     39.2908816,
     -76.610759
+  ],
+  [
+    "Oral Presentation: Analysis of location, feedstock availability, and economic contributions of a mass timber manufacturing plant in Michigan<br />International Society of Forest Resource Economics (ISFRE) Conference 2023; Houston, Texas",
+    29.7589382,
+    -95.3676974
   ]
 ];
