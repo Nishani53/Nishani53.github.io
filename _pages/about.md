@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "About Me"
+title: " # 🌿 About Me"
 permalink: /
 author_profile: true
 ---
 
 {% include base_path %}
-
-# 🌿 About Me
 
 Welcome! I’m **Naresh Khanal**, a researcher blending forest economics, policy, and regional modeling. My work at the intersection of sustainable forest management and economic evaluation seeks innovative solutions for managing global forest resources.
 
