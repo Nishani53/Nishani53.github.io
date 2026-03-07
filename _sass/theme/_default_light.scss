@@ -1,5 +1,5 @@
 /* ==========================================================================
-   NARESH'S FORESTRY THEME - LIGHT VERSION (UPDATED)
+   NARESH'S FORESTRY THEME - LIGHT VERSION (BLUE HEADINGS)
    ========================================================================== */
 
 /* Forest-inspired Color Palette */
@@ -29,9 +29,9 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Core Theme Definitions */
 :root {
-    --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #fcfcf9; /* Slightly off-white for a natural feel */
-    --global-footer-bg-color            : #e9ebe6; /* Sage-tinted footer */
+    --global-base-color                 : #52adc8; /* Set Base Color to Blue */
+    --global-bg-color                   : #fcfcf9; 
+    --global-footer-bg-color            : #e9ebe6; 
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
@@ -43,9 +43,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-hover           : #2d4c39;
     --global-link-color-visited         : #6b8265;  
     
-    /* Navigation Bar (Forest Green) */
-    --global-masthead-link-color        : #{$primary-color};
-    --global-masthead-link-color-hover  : #4a6741;    
+    /* Navigation Bar Variables - Set to Blue */
+    --global-masthead-link-color        : #52adc8;
+    --global-masthead-link-color-hover  : #ffffff;    
     
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
@@ -60,33 +60,39 @@ $sidebar-screen-min-width   : 1024px;
   border-bottom: 3px solid #6b4e31 !important; 
 }
 
-/* 2. Your Name (Site Title) */
+/* 2. Your Name (Site Title) and greedy nav text */
 .site-title, 
 .masthead__menu-item.site-title,
+.greedy-nav a,
 #site-title {
   color: #52adc8 !important; /* Professional Blue */
-  font-weight: bold !important;
+  font-weight: 800 !important; /* Made extra bold to see better on green */
   text-decoration: none !important;
 }
 
 /* 3. Navigation Links (Publications, Talks, etc.) */
 .masthead__menu-item a,
 .masthead__menu-inner ul li a,
-.greedy-nav a {
+.greedy-nav .visible-links a {
   color: #52adc8 !important; /* Professional Blue */
   font-weight: 700 !important;
   text-transform: uppercase !important;
-  font-size: 0.9em !important;
+  font-size: 0.95em !important;
 }
 
-/* 4. Hover effect so it turns white or light green when touched */
+/* 4. Hover effect so it turns white when touched */
 .masthead__menu-item a:hover,
-.site-title:hover {
+.site-title:hover,
+.greedy-nav a:hover {
   color: #ffffff !important; 
-  opacity: 0.8;
+  opacity: 1 !important;
 }
 
-/* 5. Fix for the "Greedy Nav" (the three dots/hamburger menu on mobile) */
+/* 5. Fix for the "Greedy Nav" (hamburger menu and icon) */
 .greedy-nav .toggle-menu {
   background-color: #52adc8 !important;
+}
+
+.greedy-nav:before {
+  background: #52adc8 !important; /* Vertical line color if exists */
 }
