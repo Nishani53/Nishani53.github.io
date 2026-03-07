@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Website Still Under Construction**
-</br>
+
 Welcome! I’m **Naresh Khanal**, a researcher blending forest economics, policy, and regional modeling. My work at the intersection of sustainable forest management and economic evaluation seeks innovative solutions for managing global forest resources.
 
 With an academic background spanning Nepal and the United States, I approach forest resource economics with a global, multidisciplinary lens. I recently completed an MSc at **Oregon State University**, focusing on the economic feasibility of utilizing low-value biomass for high-value products like mass timber, especially in fire-prone areas of Oregon’s Blue Mountains.
