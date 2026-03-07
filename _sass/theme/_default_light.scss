@@ -1,22 +1,23 @@
 /* ==========================================================================
-    DEFAULT THEME - LIGHT VERSION
-    ========================================================================== */
-/* Color codes used for the theme */
-$primary-color              : #2f7f93;
+   NARESH'S FORESTRY THEME - LIGHT VERSION (UPDATED)
+   ========================================================================== */
+
+/* Forest-inspired Color Palette */
+$primary-color              : #2d4c39; /* Deep Forest Green */
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-/* Color codes used for the site */
+/* Functional Site Colors */
 $danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
+$info-color                 : #3e5c45; /* Moss Green */
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 
-/* Other basic settings for the template */
+/* Basic Layout Settings */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $global-transition          : all 0.2s ease-in-out;
@@ -26,23 +27,42 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Default light theme for the site */
+/* Core Theme Definitions */
 :root {
     --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
+    --global-bg-color                   : #fcfcf9; /* Slightly off-white for a natural feel */
+    --global-footer-bg-color            : #e9ebe6; /* Sage-tinted footer */
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    
+    /* Links (Moss Green Tones) */
+    --global-link-color                 : #4a6741; 
+    --global-link-color-hover           : #2d4c39;
+    --global-link-color-visited         : #6b8265;  
+    
+    /* Navigation Bar (Forest Green) */
+    --global-masthead-link-color        : #{$primary-color};
+    --global-masthead-link-color-hover  : #4a6741;    
+    
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
 }
 
+/* Custom Overrides for the "Roar" Style Navigation */
+.masthead {
+  background-color: #2d4c39 !important; /* Forces the bar to be Green */
+  border-bottom: 3px solid #6b4e31 !important; /* Adds a Bark Brown accent line */
+}
+
+.masthead__menu-item a {
+  color: #ffffff !important; /* Makes menu text white for high contrast */
+  font-weight: 600;
+}
+
+.masthead__menu-item a:hover {
+  color: #d4e0d7 !important; /* Soft light-green hover */
+}
