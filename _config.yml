@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Naresh Khanal | Forestry | Forest Economics | Forest Management"
+title                    : "Naresh Khanal | Forestry | Forest Economics"
 title_separator          : "-"
 name                     : &name "Naresh Khanal"
 description              : &description "Official academic website of Naresh Khanal, a researcher at Oregon State University/ Michigan State University, specializing in forest resource economics, mass timber, and regional modeling."
