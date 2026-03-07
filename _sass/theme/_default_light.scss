@@ -52,17 +52,33 @@ $sidebar-screen-min-width   : 1024px;
     --global-thead-color                : #{$lighter-gray};
 }
 
-/* Custom Overrides for the "Roar" Style Navigation */
+/* --- NAVIGATION COLOR FIX --- */
+
 .masthead {
-  background-color: #2d4c39 !important; /* Forces the bar to be Green */
-  border-bottom: 3px solid #6b4e31 !important; /* Adds a Bark Brown accent line */
+  background-color: #2d4c39 !important; /* Solid Forest Green Bar */
+  border-bottom: 3px solid #6b4e31 !important; /* Bark Brown Accent Line */
 }
 
+/* 1. Change the Main Menu Text to White */
 .masthead__menu-item a {
-  color: #ffffff !important; /* Makes menu text white for high contrast */
-  font-weight: 600;
+  color: #ffffff !important; 
+  font-weight: 600 !important;
+  text-transform: uppercase; /* Makes it look like a professional org site */
+  letter-spacing: 1px;
 }
 
+/* 2. Change the Hover Color to a Light Blue/Cyan */
 .masthead__menu-item a:hover {
-  color: #d4e0d7 !important; /* Soft light-green hover */
+  color: #52adc8 !important; /* This is the professional blue you liked */
+  text-decoration: none !important;
+}
+
+/* 3. Fix the Site Title color (Naresh Khanal | Forestry...) */
+.site-title {
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+.site-title:hover {
+  color: #d4e0d7 !important;
 }
