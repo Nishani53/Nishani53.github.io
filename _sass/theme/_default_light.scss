@@ -52,33 +52,41 @@ $sidebar-screen-min-width   : 1024px;
     --global-thead-color                : #{$lighter-gray};
 }
 
-/* --- NAVIGATION COLOR FIX --- */
+/* --- FORCE NAVIGATION COLORS TO BLUE --- */
 
+/* 1. The Main Bar background and bottom border */
 .masthead {
-  background-color: #2d4c39 !important; /* Solid Forest Green Bar */
-  border-bottom: 3px solid #6b4e31 !important; /* Bark Brown Accent Line */
+  background-color: #2d4c39 !important; 
+  border-bottom: 3px solid #6b4e31 !important; 
 }
 
-/* 1. Change the Main Menu Text to White */
-.masthead__menu-item a {
-  color: #ffffff !important; 
-  font-weight: 600 !important;
-  text-transform: uppercase; /* Makes it look like a professional org site */
-  letter-spacing: 1px;
-}
-
-/* 2. Change the Hover Color to a Light Blue/Cyan */
-.masthead__menu-item a:hover {
-  color: #52adc8 !important; /* This is the professional blue you liked */
+/* 2. Your Name (Site Title) */
+.site-title, 
+.masthead__menu-item.site-title,
+#site-title {
+  color: #52adc8 !important; /* Professional Blue */
+  font-weight: bold !important;
   text-decoration: none !important;
 }
 
-/* 3. Fix the Site Title color (Naresh Khanal | Forestry...) */
-.site-title {
-  color: #ffffff !important;
-  font-weight: bold !important;
+/* 3. Navigation Links (Publications, Talks, etc.) */
+.masthead__menu-item a,
+.masthead__menu-inner ul li a,
+.greedy-nav a {
+  color: #52adc8 !important; /* Professional Blue */
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  font-size: 0.9em !important;
 }
 
+/* 4. Hover effect so it turns white or light green when touched */
+.masthead__menu-item a:hover,
 .site-title:hover {
-  color: #d4e0d7 !important;
+  color: #ffffff !important; 
+  opacity: 0.8;
+}
+
+/* 5. Fix for the "Greedy Nav" (the three dots/hamburger menu on mobile) */
+.greedy-nav .toggle-menu {
+  background-color: #52adc8 !important;
 }
