@@ -1,11 +1,22 @@
 ---
-layout: archive
-title: "🌿 About Me"
+layout: home
+title: 
 permalink: /
 author_profile: true
+header:
+  overlay_image: /images/back.jpg
+  overlay_filter: 0.5
+  caption: "Forest Economics Research | Oregon State University"
+  actions:
+    - label: "<i class='fas fa-file-pdf'></i> Download CV"
+      url: "/cv/"
+    - label: "<i class='fas fa-envelope'></i> Contact Me"
+      url: "mailto:khanal.nishani53@gmail.com"
 ---
 
 {% include base_path %}
+
+<img src="/images/msu.jpg" style="width:280px; float:right; margin-left:25px; border-radius:15px; border: 3px solid #2d4c39; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);" alt="Naresh Khanal">
 
 **Website Still Under Construction**
 
@@ -52,4 +63,4 @@ When I’m not analyzing data, I’m likely exploring the world with my camera. 
 ### 📧 Let’s Connect!
 Feel free to reach out for collaborations, research discussions, or simply to exchange ideas about the future of sustainable forests.
 
-[**Contact Me**](mailto:khanal[dot]nishani53[@]gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/nishani53) | [**Download Full CV**](/cv/)
+[**Contact Me**](mailto:khanal.nishani53@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/nishani53) | [**Download Full CV**](/cv/)
