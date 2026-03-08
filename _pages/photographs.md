@@ -59,6 +59,32 @@ Attended the SAF National Convention in Baltimore during September 2022. This ev
 </div>
 
 ---
+---
+
+### 🌲 ISFRE Meeting - Traverse City, Michigan (2022)
+**Theme:** New Opportunities and Challenges in Forest Resource Economics for Forest Products, Ecosystem, and Carbon Management (May 23-25, 2022).
+
+This meeting of the **International Society of Forest Resource Economics (ISFRE)** provided deep insights into the economic modeling of carbon management and forest products.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; justify-content: center;">
+  <img src="/images/ISFRE 2022/IMG_0636.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_0678.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_0696.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_0774.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  
+  <img src="/images/ISFRE 2022/IMG_0821.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_4026.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_4135.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_4139.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/ISFRE 2022/IMG_5135.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_5143.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG_5175.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/ISFRE 2022/IMG-0823-01.jpeg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+</div>
+
+---
+
 
 ## 🏛️ Campus Life & Travels
 
