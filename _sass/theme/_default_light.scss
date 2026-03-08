@@ -24,36 +24,33 @@ $primary-color: #2d4c39;
   text-decoration: none !important;
 }
 
-/* --- 2. THE TOTAL ALIGNMENT OVERRIDE --- */
+/* --- 2. THE REFINED ALIGNMENT PUSH --- */
 
-/* This targets the inner wrapper of the top bar */
+/* Targets the container for your Name and Menu */
 .masthead__inner {
   display: flex !important;
   justify-content: flex-start !important; 
   width: 100% !important;
-  max-width: none !important; /* Removes the center-alignment restriction */
+  max-width: 1200px !important; /* Keeps the menu from flying too far right on huge monitors */
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-/* THE "PUSH": This moves the Name and the Menu to the right */
-.site-title, 
-.greedy-nav, 
-.masthead__menu {
-  margin-left: 22% !important; /* This creates the big gap over the sidebar */
-  position: relative !important;
+/* THE "GAP": Moves the Name and Menu out from above the sidebar */
+.site-title {
+  margin-left: 22% !important; /* Adjust this: 18% is further left, 28% is further right */
+  margin-right: 40px !important; /* Space between your Name and the Menu items */
 }
 
-/* This ensures the menu links follow the name */
+/* Ensures the Menu links (Publications, etc.) follow the Name */
 .greedy-nav {
-  margin-left: 20px !important; /* Small gap between Name and Menu */
-  width: auto !important;
+  flex: 1 1 auto !important; /* Allows the menu to fill the remaining space */
+  margin-left: 0 !important; 
 }
 
 /* --- 3. MOBILE SAFETY (Reset for phones) --- */
-
 @media (max-width: 1024px) {
-  .site-title, 
-  .greedy-nav, 
-  .masthead__menu {
+  .site-title {
     margin-left: 10px !important; 
   }
   .masthead__inner {
