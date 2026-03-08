@@ -39,6 +39,29 @@ The XXVI IUFRO World Congress focused on "Forests and Society Towards 2030," pro
 
 ---
 
+---
+
+### Society of American Foresters (SAF) Convention - Baltimore, Maryland (2022)
+Attended the SAF National Convention in Baltimore during September 2022. This event focused on the latest in forest management, policy, and research, providing a valuable opportunity to engage with forestry professionals across the United States.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; justify-content: center;">
+  <img src="/images/SAF Baltimore/1A168CB2-D418-4E62-A60D-18E76A30F174.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/5EEF002B-7B6D-40A2-931D-E6FAC063E7AC.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/746AB899-BBD3-4FCB-B9D4-7E6345C7A9D2.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/7255FC70-1410-4F4D-B4DA-501346478519.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  
+  <img src="/images/SAF Baltimore/A9CA655B-A0A2-45F9-B0C3-D4FEBA9B5B00.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/E42290D4-E414-4386-B20B-1CE49873006F.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/F856D512-4EC0-4624-92C7-BC0A96DA1B2F.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/IMG_3686.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/SAF Baltimore/IMG_3764.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/IMG_3860.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/SAF Baltimore/IMG_3894.jpg" width="23%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+</div>
+
+---
+
 ## 🏛️ Campus Life & Travels
 
 ### Michigan State University - East Lansing (2021-2022)
