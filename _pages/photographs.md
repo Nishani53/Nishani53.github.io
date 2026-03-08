@@ -62,8 +62,6 @@ This album highlights early fieldwork in the Terai region. Projects included **T
 
 Detailed descriptions of these research initiatives can be found [here](http://www.gopalkhanal.com/completed-research.html).
 
-<img src="/images/BNP/IMG_6639.JPG" width="100%" alt="Fieldwork in Bardia" style="border-radius: 8px;" />
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img src="/images/BNP/IMG_1312.JPG" width="32%" style="border-radius: 4px;" />
   <img src="/images/BNP/IMG_2359.JPG" width="32%" style="border-radius: 4px;" />
@@ -76,6 +74,8 @@ Detailed descriptions of these research initiatives can be found [here](http://w
   <img src="/images/BNP/IMG_4473.JPG" width="32%" style="border-radius: 4px;" />
   <img src="/images/BNP/IMG_6467.JPG" width="32%" style="border-radius: 4px;" />
   <img src="/images/BNP/IMG_6498.JPG" width="32%" style="border-radius: 4px;" />
+
+  <img src="/images/BNP/gp.jpg" width="32%" style="border-radius: 4px;" />
 </div>
 
 ---
