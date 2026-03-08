@@ -1,90 +1,47 @@
 /* ==========================================================================
-    NARESH'S FORESTRY THEME - FINAL ALIGNMENT OVERRIDE
-   ========================================================================== */
-
-/* Forest-inspired Color Palette */
-$primary-color              : #2d4c39; 
+    DEFAULT THEME - LIGHT VERSION
+    ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #2f7f93;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-/* Functional Site Colors */
+/* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #3e5c45; 
+$info-color                 : #2f7f93;
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 
-/* Basic Layout Settings */
+/* Other basic settings for the template */
 $border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
 
-/* Core Theme Definitions */
+/* Default light theme for the site */
 :root {
-    --global-base-color                 : #52adc8; 
-    --global-bg-color                   : #fcfcf9; 
-    --global-footer-bg-color            : #e9ebe6; 
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #fff;
+    --global-footer-bg-color            : #f2f3f3;
     --global-border-color               : #{$lighter-gray};
-    --global-masthead-link-color        : #52adc8;
-    --global-masthead-link-color-hover  : #ffffff;    
+    --global-dark-border-color          : #bdc1c4;
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-link-color                 : #52adc8;
+    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
+    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
+    --global-masthead-link-color        : #{$dark-gray};
+    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
     --global-text-color                 : #{$dark-gray};
-}
-
-/* --- 1. COLORS & FONTS --- */
-
-.masthead {
-  background-color: #2d4c39 !important; 
-  border-bottom: 3px solid #6b4e31 !important; 
-}
-
-.site-title, .masthead__menu-item a, .greedy-nav a {
-  color: #52adc8 !important; 
-  font-weight: 800 !important;
-  text-transform: uppercase !important;
-  text-decoration: none !important;
-}
-
-.site-title:hover, .masthead__menu-item a:hover {
-  color: #ffffff !important;
-}
-
-/* --- 2. THE RIGID ALIGNMENT FIX --- */
-
-/* This targets the inner wrapper of the top bar */
-.masthead__inner {
-  display: flex !important;
-  justify-content: flex-start !important; /* Forces items to start from the left + our margin */
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/* This is the actual "Push" to the right */
-.masthead__inner .masthead__menu {
-  margin-left: 320px !important; /* Adjust this number to move it more/less */
-  width: auto !important;
-}
-
-/* Push your Name (Site Title) to align with the Menu */
-.site-title {
-  margin-left: 320px !important; /* Adjust to match the number above */
-}
-
-/* If the Menu and Name are on the same line, use this instead */
-.greedy-nav {
-  margin-left: 320px !important; 
-  width: calc(100% - 320px) !important;
-}
-
-/* --- 3. MOBILE SAFETY (Don't push on phones) --- */
-
-@media (max-width: 1024px) {
-  .masthead__inner .masthead__menu,
-  .site-title,
-  .greedy-nav {
-    margin-left: 10px !important; 
-    width: auto !important;
-  }
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #{$lighter-gray};
 }
