@@ -1,217 +1,58 @@
 ---
-
-
-
 layout: archive
-
-
-
 title: "🌿 About Me"
-
-
-
 permalink: /
-
-
-
 author_profile: true
+---
 
+### 🌿 About Me
 
+Welcome! I’m **Naresh Khanal**, a passionate researcher blending **forest economics**, **policy**, and **regional modeling**. With an academic background spanning **Nepal** and the **United States**, I focus on sustainable forest management, creating solutions to optimize forest resources in the face of climate challenges.
 
 ---
 
+### 🎓 Education & Academic Journey
 
-
-
-
-
-
-{% include base_path %}
-
-
-
-
-
-
-
-**Website Still Under Construction**
-
-
-
-
-
-
-
-Welcome! I’m **Naresh Khanal**, a researcher blending forest economics, policy, and regional modeling. My work at the intersection of sustainable forest management and economic evaluation seeks innovative solutions for managing global forest resources.
-
-
-
-
-
-
-
-With an academic background spanning Nepal and the United States, I approach forest resource economics with a global, multidisciplinary lens. I recently completed an MSc at **Oregon State University**, focusing on the economic feasibility of utilizing low-value biomass for high-value products like mass timber, especially in fire-prone areas of Oregon’s Blue Mountains.
-
-
-
-
-
-
-
-I hold dual master's degrees in forestry from **Oregon State University** and **Michigan State University**, where I contributed to impactful projects on forest product markets, economic impact modeling (IMPLAN), and restoration prioritization. These efforts have involved collaborations with state agencies like the Michigan Department of Natural Resources and presentations at global conferences like IUFRO and SAF.
-
-
-
-
-
-
-
-Previously, I worked on large-scale conservation efforts in Nepal, helping to draft national action plans for tiger and dolphin conservation. My fieldwork spans regions from the Himalayas to the Pacific Northwest, collecting both ecological and economic data that inform conservation and commercial forestry strategies.
-
-
-
-
-
-
+- **MSc in Sustainable Forest Management** – *Oregon State University, 2025*
+- **MSc in Forestry** – *Michigan State University, 2023*
+- **BSc in Forestry** – *Tribhuvan University, Nepal, 2019*
 
 ---
 
+### 🔍 Research Focus
 
+I integrate **economic modeling** with **spatial analysis** to solve key challenges in:
 
-
-
-
-
-### 🔍 Key Tools & Skills
-
-
-
-* **Economics:** Forest Economics, IMPLAN, Econometrics, Optimization
-
-
-
-* **Technical:** ArcGIS, R & Python, Biomass Modeling
-
-
-
-* **Management:** Restoration Optimization, Forest Operations Planning
-
-
-
-
-
-
+- **Forest Resource Economics**: Valuing ecosystem services and optimizing timber supply chains.
+- **Mass Timber & Bioeconomy**: Exploring market reach and economic impact.
+- **Forest Policy**: Evaluating socio-economic effects of wildfire reduction and treatments.
 
 ---
 
+### 🪵 Key Tools & Skills
 
-
-
-
-
-
-### 🪵 Research Focus
-
-
-
-My research explores how economic modeling (IMPLAN) combined with spatial analysis can address critical challenges in:
-
-
-
-
-
-
-
-* **Forest Resource Economics:** Valuing ecosystem services and optimizing timber supply chains.
-
-
-
-* **Mass Timber & Bioeconomy:** Assessing the market reach and industrial impacts of utilizing low-value timber.
-
-
-
-* **Forest Policy:** Analyzing socio-economic effects of wildfire reduction and regional forest treatments.
-
-
-
-
-
-
+- **Economics**: Forest Economics, IMPLAN, Econometrics, Optimization
+- **Technical**: ArcGIS, R & Python, Biomass Modeling
+- **Management**: Restoration Optimization, Forest Operations Planning
 
 ---
 
+### 🌍 Global Contributions
 
-
-
-
-
-
-### 🎓 Education
-
-
-
-* **MSc in Sustainable Forest Management**, Oregon State University, 2025
-
-
-
-* **MSc in Forestry**, Michigan State University, 2023
-
-
-
-* **BSc in Forestry**, Tribhuvan University, Nepal, 2019
-
-
-
-
-
-
+In addition to my research, I actively engage in policy discussions, such as analyzing Nepal’s economic landscape and contributing to *The Kathmandu Post* on macroeconomic issues in Nepal.
 
 ---
 
+### 📸 Personal Passion
 
-
-
-
-
-
-### 🌏 Global Contributions & Passion
-
-
-
-In addition to my academic research, I actively contribute to economic policy discussions, especially concerning trade and monetary dynamics in Nepal. I recently contributed to *The Kathmandu Post*, discussing the NPR-INR currency peg and its economic implications.
-
-
-
-
-
-
-
-When I’m not analyzing data, I’m likely exploring the world with my camera. You can find some of my travel photography in the [Photographs](/photographs/) section.
-
-
-
-
-
-
+When I’m not deep in data, I’m likely exploring the world through my lens. Check out my [photographs](/photographs/) for a glimpse into my travels.
 
 ---
 
+### 📧 Let's Connect
 
+Whether for collaboration, research discussions, or just exchanging ideas on sustainable forestry, feel free to reach out.
 
-
-
-
-
-### 📧 Let’s Connect!
-
-
-
-Feel free to reach out for collaborations, research discussions, or simply to exchange ideas about the future of sustainable forests.
-
-
-
-
-
-
-
-[**Contact Me**](mailto:khanal[dot]nishani53[@]gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/nishani53) | [**Download Full CV**](/cv/)
+- **Contact**: [khanal[dot]nishani53[@]gmail.com](mailto:khanal[dot]nishani53@gmail.com)
+- **LinkedIn**: [nishani53](https://www.linkedin.com/in/nishani53)
+- **Download Full CV**: [Link](#)
