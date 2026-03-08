@@ -22,8 +22,6 @@ I participated in a field dialogue organized by the **Yale School of the Environ
 
   <img src="/images/Forestry dialogue 2025/3.JPG" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
 
-
-  <img src="/images/Forestry dialogue 2025/1750639006061.jpeg" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
   <img src="/images/Forestry dialogue 2025/1750639007954.jpeg" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
 
   <img src="/images/Forestry dialogue 2025/IMG_3637.png" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
