@@ -19,16 +19,16 @@ I participated in a field dialogue organized by the **Yale School of the Environ
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; justify-content: center;">
   <img src="/images/Forestry dialogue 2025/1.JPG" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
-  <img src="/images/Forestry dialogue 2025/2.JPG" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
+
   <img src="/images/Forestry dialogue 2025/3.JPG" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
-  <img src="/images/Forestry dialogue 2025/1750639005799.jpeg" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
+
 
   <img src="/images/Forestry dialogue 2025/1750639006061.jpeg" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
   <img src="/images/Forestry dialogue 2025/1750639007954.jpeg" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
-  <img src="/images/Forestry dialogue 2025/IMG_3622.png" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
+
   <img src="/images/Forestry dialogue 2025/IMG_3637.png" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
 
-  <img src="/images/Forestry dialogue 2025/IMG_3647.png" width="23%" style="border-radius: 4px; aspect-ratio: 1 / 1; object-fit: cover;" />
+  
 </div>
 
 ---
