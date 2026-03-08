@@ -34,7 +34,28 @@ A collection of moments from my academic travels, field research, and profession
 
 --
 
+---
 
+### 📏 Forest Inventory & Volume Table Preparation (2020)
+**Organization:** Department of Forest Research, Ministry of Forest and Soil Conservation, Nepal
+
+I contributed to the national project **"Forest Inventory and General Volume Table Preparation in Scientific Forests of Lowland Nepal."** My role involved collecting and analyzing forest inventory data, including detailed tree measurements and biomass estimations, to support sustainable forest management practices in the Terai region.
+
+<img src="/images/Volume table/IMG_20200209_102117.jpg" width="100%" alt="Forest Inventory Fieldwork" style="border-radius: 8px;" />
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="/images/Volume table/IMG_20200210_092006.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Volume table/IMG_20200211_171143.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Volume table/IMG_20200217_143234.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  
+  <img src="/images/Volume table/IMG_20200217_144250.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Volume table/IMG_20200301_171728.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Volume table/IMG_20200302_090946.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/Volume table/received_192559805138210.jpeg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+</div>
+
+---
 
 
 ---
