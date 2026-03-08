@@ -6,7 +6,6 @@ author_profile: true
 header:
   overlay_image: /images/back.jpg
   overlay_filter: 0.5
-  caption: "Forest Economics | Regional Modeling"
 ---
 
 {% include base_path %}
