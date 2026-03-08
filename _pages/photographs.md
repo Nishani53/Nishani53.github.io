@@ -21,21 +21,23 @@ The XXVI IUFRO World Congress focused on "Forests and Society Towards 2030," pro
 </div>
 
 ---
-
 ### SAF National Convention - Sacramento, California (2023)
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/cali1.jpg" width="48%" />
-  <img src="/images/cali2.jpg" width="48%" />
-  <img src="/images/cali3.jpg" width="48%" />
-  <img src="/images/cali4.jpg" width="48%" />
+
+<div style="max-width: 50%; margin: 0 auto;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="/images/cali1.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+    <img src="/images/cali2.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+    <img src="/images/cali3.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+    <img src="/images/cali4.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  </div>
 </div>
 
 ---
 
-### International Mass Timber Conference - Portland, Oregon (2024)
-<img src="/images/mt2.jpeg" width="100%" alt="Portland Mass Timber Conference" />
 
---
+### International Mass Timber Conference - Portland, Oregon (2024)
+<img src="/images/mt2.jpeg" width="30%" alt="Portland Mass Timber Conference" />
+
 ---
 
 ## 🏛️ Campus Life & Travels
@@ -90,28 +92,24 @@ A collection of personal moments and scenery captured around the MSU campus and 
 </div>
 
 ---
----
 
 ### 📏 Forest Inventory & Volume Table Preparation (2020)
 **Organization:** Department of Forest Research, Ministry of Forest and Soil Conservation, Nepal
 
 I contributed to the national project **"Forest Inventory and General Volume Table Preparation in Scientific Forests of Lowland Nepal."** My role involved collecting and analyzing forest inventory data, including detailed tree measurements and biomass estimations, to support sustainable forest management practices in the Terai region.
 
-<img src="/images/Volume table/IMG_20200209_102117.jpg" width="100%" alt="Forest Inventory Fieldwork" style="border-radius: 8px;" />
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="/images/Volume table/IMG_20200209_102117.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
   <img src="/images/Volume table/IMG_20200210_092006.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
   <img src="/images/Volume table/IMG_20200211_171143.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
-  <img src="/images/Volume table/IMG_20200217_143234.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
   
+  <img src="/images/Volume table/IMG_20200217_143234.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
   <img src="/images/Volume table/IMG_20200217_144250.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
   <img src="/images/Volume table/IMG_20200301_171728.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
-  <img src="/images/Volume table/IMG_20200302_090946.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
 
+  <img src="/images/Volume table/IMG_20200302_090946.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
   <img src="/images/Volume table/received_192559805138210.jpeg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
 </div>
-
----
 
 
 ---
@@ -121,13 +119,13 @@ I contributed to the national project **"Forest Inventory and General Volume Tab
 
 This academic tour focused on National Parks visit and research infrastructure across Western Nepal and Northern India. Highlights included visiting the **Forest Research Institute (FRI)** in Dehradun, Forest industries in Haldwani, and the Himalayan foothills of Rishikesh and Nainital along the Ganga River.
 
-<img src="/images/Indo Nepal Tour 2018/IMG_4652.JPG" width="100%" alt="FRI Dehradun Visit" style="border-radius: 8px;" />
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="/images/Indo Nepal Tour 2018/IMG_4417.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
-  <img src="/images/Indo Nepal Tour 2018/IMG_4622.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
-  <img src="/images/Indo Nepal Tour 2018/IMG_4625.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
-  <img src="/images/Indo Nepal Tour 2018/IMG_4626.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4652.JPG" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4417.JPG" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4622.JPG" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  
+  <img src="/images/Indo Nepal Tour 2018/IMG_4625.JPG" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4626.JPG" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
 </div>
 
 ---
