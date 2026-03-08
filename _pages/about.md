@@ -49,10 +49,16 @@ When I’m not deep in data, I’m likely exploring the world through my lens. C
 
 ---
 
-### 📧 Let's Connect
+### 📧 Let’s Connect!
 
-Whether for collaboration, research discussions, or just exchanging ideas on sustainable forestry, feel free to reach out.
 
-- **Contact**: [khanal[dot]nishani53[@]gmail.com](mailto:khanal[dot]nishani53@gmail.com)
-- **LinkedIn**: [nishani53](https://www.linkedin.com/in/nishani53)
-- **Download Full CV**: [Link](#)
+
+Feel free to reach out for collaborations, research discussions, or simply to exchange ideas about the future of sustainable forests.
+
+
+
+
+
+
+
+[**Contact Me**](mailto:khanal[dot]nishani53[@]gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/nishani53) | [**Download Full CV**](/cv/)
