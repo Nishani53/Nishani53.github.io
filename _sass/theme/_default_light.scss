@@ -1,90 +1,62 @@
 /* ==========================================================================
-    NARESH'S FORESTRY THEME - FINAL ALIGNMENT OVERRIDE
+    NARESH'S FORESTRY THEME - MAXIMUM ALIGNMENT PUSH
    ========================================================================== */
 
-/* Forest-inspired Color Palette */
-$primary-color              : #2d4c39; 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
-
-/* Functional Site Colors */
-$danger-color               : #ee5f5b;
-$info-color                 : #3e5c45; 
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-
-/* Basic Layout Settings */
-$border-radius              : 4px;
-$global-transition          : all 0.2s ease-in-out;
-$masthead-height            : 70px;
-
-/* Core Theme Definitions */
+/* 1. CORE COLORS */
+$primary-color: #2d4c39; 
 :root {
-    --global-base-color                 : #52adc8; 
-    --global-bg-color                   : #fcfcf9; 
-    --global-footer-bg-color            : #e9ebe6; 
-    --global-border-color               : #{$lighter-gray};
-    --global-masthead-link-color        : #52adc8;
-    --global-masthead-link-color-hover  : #ffffff;    
-    --global-text-color                 : #{$dark-gray};
+    --global-base-color: #52adc8; 
+    --global-bg-color: #fcfcf9; 
+    --global-masthead-link-color: #52adc8;
+    --global-masthead-link-color-hover: #ffffff;    
 }
-
-/* --- 1. COLORS & FONTS --- */
 
 .masthead {
   background-color: #2d4c39 !important; 
   border-bottom: 3px solid #6b4e31 !important; 
 }
 
-.site-title, .masthead__menu-item a, .greedy-nav a {
+/* Header Text (Name and Menu) */
+.site-title, .masthead__menu-item a, .greedy-nav a, .masthead__menu-inner a {
   color: #52adc8 !important; 
   font-weight: 800 !important;
   text-transform: uppercase !important;
   text-decoration: none !important;
 }
 
-.site-title:hover, .masthead__menu-item a:hover {
-  color: #ffffff !important;
-}
-
-/* --- 2. THE RIGID ALIGNMENT FIX --- */
+/* --- 2. THE TOTAL ALIGNMENT OVERRIDE --- */
 
 /* This targets the inner wrapper of the top bar */
 .masthead__inner {
   display: flex !important;
-  justify-content: flex-start !important; /* Forces items to start from the left + our margin */
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  justify-content: flex-start !important; 
+  width: 100% !important;
+  max-width: none !important; /* Removes the center-alignment restriction */
 }
 
-/* This is the actual "Push" to the right */
-.masthead__inner .masthead__menu {
-  margin-left: 320px !important; /* Adjust this number to move it more/less */
+/* THE "PUSH": This moves the Name and the Menu to the right */
+.site-title, 
+.greedy-nav, 
+.masthead__menu {
+  margin-left: 35% !important; /* This creates the big gap over the sidebar */
+  position: relative !important;
+}
+
+/* This ensures the menu links follow the name */
+.greedy-nav {
+  margin-left: 20px !important; /* Small gap between Name and Menu */
   width: auto !important;
 }
 
-/* Push your Name (Site Title) to align with the Menu */
-.site-title {
-  margin-left: 320px !important; /* Adjust to match the number above */
-}
-
-/* If the Menu and Name are on the same line, use this instead */
-.greedy-nav {
-  margin-left: 320px !important; 
-  width: calc(100% - 320px) !important;
-}
-
-/* --- 3. MOBILE SAFETY (Don't push on phones) --- */
+/* --- 3. MOBILE SAFETY (Reset for phones) --- */
 
 @media (max-width: 1024px) {
-  .masthead__inner .masthead__menu,
-  .site-title,
-  .greedy-nav {
+  .site-title, 
+  .greedy-nav, 
+  .masthead__menu {
     margin-left: 10px !important; 
-    width: auto !important;
+  }
+  .masthead__inner {
+    justify-content: space-between !important;
   }
 }
