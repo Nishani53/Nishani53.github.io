@@ -34,9 +34,30 @@ A collection of moments from my academic travels, field research, and profession
 
 --
 
+
+
+
+---
+
+### 🇮🇳🇳🇵 Indo-Nepal Forestry Tour (2018)
+**Representing:** Institute of Forestry, Tribhuvan University
+
+This academic tour focused on National Parks visit and research infrastructure across Western Nepal and Northern India. Highlights included visiting the **Forest Research Institute (FRI)** in Dehradun, Forest industries in Haldwani, and the Himalayan foothills of Rishikesh and Nainital along the Ganga River.
+
+<img src="/images/Indo Nepal Tour 2018/IMG_4652.JPG" width="100%" alt="FRI Dehradun Visit" style="border-radius: 8px;" />
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="/images/Indo Nepal Tour 2018/IMG_4417.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4622.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4625.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
+  <img src="/images/Indo Nepal Tour 2018/IMG_4626.JPG" width="48%" style="border-radius: 4px; object-fit: cover; height: 300px;" />
+</div>
+
+---
+
 ## 🐅 Conservation & Wildlife Research (Nepal)
 
-### Bardia National Park (2015)
+### Bardia National Park (2015-16)
 This album highlights early fieldwork in the Terai region. Projects included **Tiger Prey Species Monitoring**, the **Indo-Nepal Dolphin Survey**, and **Human-Wildlife Conflict Research**. 
 
 Detailed descriptions of these research initiatives can be found [here](http://www.gopalkhanal.com/completed-research.html).
