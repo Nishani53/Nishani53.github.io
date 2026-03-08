@@ -96,3 +96,26 @@ $sidebar-screen-min-width   : 1024px;
 .greedy-nav:before {
   background: #52adc8 !important; /* Vertical line color if exists */
 }
+
+/* --- ALIGN NAVIGATION TO THE RIGHT OF THE SIDEBAR --- */
+
+/* 1. Push the entire header content to the right */
+.masthead__inner {
+  max-width: 1200px; /* Limits the width so it doesn't hit the edges */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20%; /* This 'pushes' the start of the menu to the right */
+  padding-right: 20px;
+}
+
+/* 2. Adjustment for smaller screens so it doesn't break on mobile */
+@media (max-width: 1024px) {
+  .masthead__inner {
+    padding-left: 5%; 
+  }
+}
+
+/* 3. Ensure the Site Title (Your Name) isn't stuck to the far left */
+.site-title {
+  margin-right: 20px;
+}
