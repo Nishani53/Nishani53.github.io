@@ -33,19 +33,6 @@ The XXVI IUFRO World Congress focused on "Forests and Society Towards 2030," pro
 
 ---
 
-### SAF National Convention - Sacramento, California (2023)
-
-<div style="max-width: 50%; margin: 0 auto;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="/images/cali1.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
-    <img src="/images/cali2.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
-    <img src="/images/cali3.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
-    <img src="/images/cali4.jpg" style="width: 48%; border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
-  </div>
-</div>
-
----
-
 
 ### International Mass Timber Conference - Portland, Oregon (2024)
 <img src="/images/mt2.jpeg" width="30%" alt="Portland Mass Timber Conference" />
