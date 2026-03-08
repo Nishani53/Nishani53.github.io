@@ -9,12 +9,15 @@ A collection of moments from my academic travels, field research, and profession
 
 ## Professional Conferences & Travels
 
+---
 ### IUFRO World Congress - Stockholm, Sweden (2024)
-<img src="/images/IUFRO6.jpg" width="100%" alt="IUFRO Stockholm" />
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
-  <img src="/images/IUFRO3.JPG" width="32%" />
-  <img src="/images/IUFRO4.jpg" width="32%" />
-  <img src="/images/IUFRO5.jpg" width="32%" />
+The XXVI IUFRO World Congress focused on "Forests and Society Towards 2030," providing a global platform for forest science and policy exchange in Stockholm.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="/images/IUFRO6.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/IUFRO3.JPG" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/IUFRO4.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/IUFRO5.jpg" width="32%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
 </div>
 
 ---
