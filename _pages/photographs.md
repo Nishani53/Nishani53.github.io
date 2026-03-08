@@ -33,7 +33,60 @@ A collection of moments from my academic travels, field research, and profession
 <img src="/images/mt2.jpeg" width="100%" alt="Portland Mass Timber Conference" />
 
 --
+---
 
+## 🏛️ Campus Life & Travels
+
+### Michigan State University - East Lansing (2021-2022)
+A collection of personal moments and scenery captured around the MSU campus and East Lansing during my time in Michigan. From the changing seasons on the Red Cedar River to the iconic campus architecture, these photos represent my life outside the lab.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <img src="/images/MSU/20211109_232112.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/20220131_132754.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/FB_IMG_1644005828866.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_0106.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  
+  <img src="/images/MSU/IMG_0185.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_0312.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_0448.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_0453.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/MSU/IMG_20210909_094815.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20210909_094824.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20210916_181244.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20210925_165727.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/MSU/IMG_20211012_180441.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20211111_085755.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20220109_185430_725.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20220227_161149-01.jpeg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/MSU/IMG_1001.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_1066.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_1114.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_1296.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/MSU/IMG_20220610_090550_490.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20220610_090550_789.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20220610_090550_876.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_1768.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/MSU/IMG_2152.JPG" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/Snapseed1.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_2479.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_2494.JPG" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+
+  <img src="/images/MSU/c1.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/c2.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/c3.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/received_442029310593077.jpeg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  
+  <img src="/images/MSU/received_1007797179794611.jpeg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/Snapseed.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+  <img src="/images/MSU/IMG_20211109_111914.jpg" width="24%" style="border-radius: 4px; aspect-ratio: 1/1; object-fit: cover;" />
+</div>
+
+---
 ---
 
 ### 📏 Forest Inventory & Volume Table Preparation (2020)
