@@ -1,59 +1,241 @@
-/* ==========================================================================
-    NARESH'S FORESTRY THEME - MAXIMUM ALIGNMENT PUSH
+==========================================================================
+
+   NARESH'S FORESTRY THEME - LIGHT VERSION (BLUE HEADINGS)
+
    ========================================================================== */
 
-/* 1. CORE COLORS */
-$primary-color: #2d4c39; 
+
+
+/* Forest-inspired Color Palette */
+
+$primary-color              : #2d4c39; /* Deep Forest Green */
+
+$gray                       : #7a8288;
+
+$dark-gray                  : mix(#000, $gray, 40%);
+
+$darker-gray                : mix(#000, $gray, 60%);
+
+$light-gray                 : mix(#fff, $gray, 50%);
+
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+
+
+/* Functional Site Colors */
+
+$danger-color               : #ee5f5b;
+
+$info-color                 : #3e5c45; /* Moss Green */
+
+$notice-color               : #7a8288;
+
+$success-color              : #62c462;
+
+$warning-color              : #f89406;
+
+
+
+/* Basic Layout Settings */
+
+$border-radius              : 4px;
+
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+
+$global-transition          : all 0.2s ease-in-out;
+
+$masthead-height            : 70px;
+
+$navicon-width              : 28px;
+
+$navicon-height             : 4px;
+
+$sidebar-link-max-width     : 250px;
+
+$sidebar-screen-min-width   : 1024px;
+
+
+
+/* Core Theme Definitions */
+
 :root {
-    --global-base-color: #52adc8; 
-    --global-bg-color: #fcfcf9; 
-    --global-masthead-link-color: #52adc8;
-    --global-masthead-link-color-hover: #ffffff;    
+
+    --global-base-color                 : #52adc8; /* Set Base Color to Blue */
+
+    --global-bg-color                   : #fcfcf9; 
+
+    --global-footer-bg-color            : #e9ebe6; 
+
+    --global-border-color               : #{$lighter-gray};
+
+    --global-dark-border-color          : #bdc1c4;
+
+    --global-code-background-color      : #fafafa;
+
+    --global-code-text-color            : #{$darker-gray};
+
+    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+
+    
+
+    /* Links (Moss Green Tones) */
+
+    --global-link-color                 : #4a6741; 
+
+    --global-link-color-hover           : #2d4c39;
+
+    --global-link-color-visited         : #6b8265;  
+
+    
+
+    /* Navigation Bar Variables - Set to Blue */
+
+    --global-masthead-link-color        : #52adc8;
+
+    --global-masthead-link-color-hover  : #ffffff;    
+
+    
+
+    --global-text-color                 : #{$dark-gray};
+
+    --global-text-color-light           : #{$light-gray};
+
+    --global-thead-color                : #{$lighter-gray};
+
 }
+
+
+
+/* --- FORCE NAVIGATION COLORS TO BLUE --- */
+
+
+
+/* 1. The Main Bar background and bottom border */
 
 .masthead {
+
   background-color: #2d4c39 !important; 
+
   border-bottom: 3px solid #6b4e31 !important; 
+
 }
 
-/* Header Text (Name and Menu) */
-.site-title, .masthead__menu-item a, .greedy-nav a, .masthead__menu-inner a {
-  color: #52adc8 !important; 
-  font-weight: 800 !important;
-  text-transform: uppercase !important;
+
+
+/* 2. Your Name (Site Title) and greedy nav text */
+
+.site-title, 
+
+.masthead__menu-item.site-title,
+
+.greedy-nav a,
+
+#site-title {
+
+  color: #52adc8 !important; /* Professional Blue */
+
+  font-weight: 800 !important; /* Made extra bold to see better on green */
+
   text-decoration: none !important;
+
 }
 
-/* --- 2. THE REFINED ALIGNMENT PUSH --- */
 
-/* Targets the container for your Name and Menu */
+
+/* 3. Navigation Links (Publications, Talks, etc.) */
+
+.masthead__menu-item a,
+
+.masthead__menu-inner ul li a,
+
+.greedy-nav .visible-links a {
+
+  color: #52adc8 !important; /* Professional Blue */
+
+  font-weight: 700 !important;
+
+  text-transform: uppercase !important;
+
+  font-size: 0.95em !important;
+
+}
+
+
+
+/* 4. Hover effect so it turns white when touched */
+
+.masthead__menu-item a:hover,
+
+.site-title:hover,
+
+.greedy-nav a:hover {
+
+  color: #ffffff !important; 
+
+  opacity: 1 !important;
+
+}
+
+
+
+/* 5. Fix for the "Greedy Nav" (hamburger menu and icon) */
+
+.greedy-nav .toggle-menu {
+
+  background-color: #52adc8 !important;
+
+}
+
+
+
+.greedy-nav:before {
+
+  background: #52adc8 !important; /* Vertical line color if exists */
+
+}
+
+
+
+/* --- ALIGN NAVIGATION TO THE RIGHT OF THE SIDEBAR --- */
+
+
+
+/* 1. Push the entire header content to the right */
+
 .masthead__inner {
-  display: flex !important;
-  justify-content: flex-start !important; 
-  width: 100% !important;
-  max-width: 1200px !important; /* Keeps the menu from flying too far right on huge monitors */
-  margin-left: auto !important;
-  margin-right: auto !important;
+
+  max-width: 1200px; /* Limits the width so it doesn't hit the edges */
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  padding-left: 20%; /* This 'pushes' the start of the menu to the right */
+
+  padding-right: 20px;
+
 }
 
-/* THE "GAP": Moves the Name and Menu out from above the sidebar */
-.site-title {
-  margin-left: 10% !important; /* Adjust this: 18% is further left, 28% is further right */
-  margin-right: 40px !important; /* Space between your Name and the Menu items */
-}
 
-/* Ensures the Menu links (Publications, etc.) follow the Name */
-.greedy-nav {
-  flex: 1 1 auto !important; /* Allows the menu to fill the remaining space */
-  margin-left: 0 !important; 
-}
 
-/* --- 3. MOBILE SAFETY (Reset for phones) --- */
+/* 2. Adjustment for smaller screens so it doesn't break on mobile */
+
 @media (max-width: 1024px) {
-  .site-title {
-    margin-left: 10px !important; 
-  }
+
   .masthead__inner {
-    justify-content: space-between !important;
+
+    padding-left: 5%; 
+
   }
+
+}
+
+
+
+/* 3. Ensure the Site Title (Your Name) isn't stuck to the far left */
+
+.site-title {
+
+  margin-right: 20px;
+
 }
