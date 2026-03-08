@@ -1,9 +1,9 @@
 /* ==========================================================================
-    NARESH'S FORESTRY THEME - LIGHT VERSION (FINALIZED)
+    NARESH'S FORESTRY THEME - FINAL ALIGNMENT OVERRIDE
    ========================================================================== */
 
 /* Forest-inspired Color Palette */
-$primary-color              : #2d4c39; /* Deep Forest Green */
+$primary-color              : #2d4c39; 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -12,94 +12,79 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 /* Functional Site Colors */
 $danger-color               : #ee5f5b;
-$info-color                 : #3e5c45; /* Moss Green */
+$info-color                 : #3e5c45; 
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 
 /* Basic Layout Settings */
 $border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$sidebar-link-max-width     : 250px;
-$sidebar-screen-min-width   : 1024px;
 
 /* Core Theme Definitions */
 :root {
-    --global-base-color                 : #52adc8; /* Set Base Color to Blue */
+    --global-base-color                 : #52adc8; 
     --global-bg-color                   : #fcfcf9; 
     --global-footer-bg-color            : #e9ebe6; 
     --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    
-    /* Links (Moss Green Tones) */
-    --global-link-color                 : #4a6741; 
-    --global-link-color-hover           : #2d4c39;
-    --global-link-color-visited         : #6b8265;  
-    
-    /* Navigation Bar Variables - Set to Blue */
     --global-masthead-link-color        : #52adc8;
     --global-masthead-link-color-hover  : #ffffff;    
-    
     --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
 }
 
-/* --- 1. NAVIGATION COLORS --- */
+/* --- 1. COLORS & FONTS --- */
 
 .masthead {
   background-color: #2d4c39 !important; 
   border-bottom: 3px solid #6b4e31 !important; 
 }
 
-/* Site Title (Name) and Menu Links */
-.site-title, 
-.masthead__menu-item.site-title,
-.greedy-nav a,
-.masthead__menu-item a,
-.masthead__menu-inner ul li a {
-  color: #52adc8 !important; /* Professional Blue */
+.site-title, .masthead__menu-item a, .greedy-nav a {
+  color: #52adc8 !important; 
   font-weight: 800 !important;
-  text-decoration: none !important;
   text-transform: uppercase !important;
+  text-decoration: none !important;
 }
 
-.masthead__menu-item a:hover,
-.site-title:hover,
-.greedy-nav a:hover {
-  color: #ffffff !important; 
-  opacity: 1 !important;
+.site-title:hover, .masthead__menu-item a:hover {
+  color: #ffffff !important;
 }
 
-/* --- 2. THE ALIGNMENT FIX (Push to Right) --- */
+/* --- 2. THE RIGID ALIGNMENT FIX --- */
 
-/* This targets the container holding your name and menu */
+/* This targets the inner wrapper of the top bar */
 .masthead__inner {
-  margin-left: 300px !important; /* Forces the text to start AFTER the sidebar */
-  max-width: 1200px;
+  display: flex !important;
+  justify-content: flex-start !important; /* Forces items to start from the left + our margin */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-/* Ensure the greedy-nav (menu) follows the margin */
+/* This is the actual "Push" to the right */
+.masthead__inner .masthead__menu {
+  margin-left: 320px !important; /* Adjust this number to move it more/less */
+  width: auto !important;
+}
+
+/* Push your Name (Site Title) to align with the Menu */
+.site-title {
+  margin-left: 320px !important; /* Adjust to match the number above */
+}
+
+/* If the Menu and Name are on the same line, use this instead */
 .greedy-nav {
-  margin-left: 0 !important; /* Resetting internal margin to avoid double-push */
+  margin-left: 320px !important; 
+  width: calc(100% - 320px) !important;
 }
 
-/* Adjustment for Mobile Screens (so it doesn't break on phones) */
+/* --- 3. MOBILE SAFETY (Don't push on phones) --- */
+
 @media (max-width: 1024px) {
-  .masthead__inner {
-    margin-left: 0 !important;
-    padding-left: 10px !important;
+  .masthead__inner .masthead__menu,
+  .site-title,
+  .greedy-nav {
+    margin-left: 10px !important; 
+    width: auto !important;
   }
-}
-
-/* Fix for "Sticky" headers if you use them */
-.sticky .masthead__inner {
-  margin-left: 300px !important;
 }
