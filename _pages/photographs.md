@@ -39,6 +39,19 @@ The XXVI IUFRO World Congress focused on "Forests and Society Towards 2030," pro
 
 ---
 
+### 🌲 ISFRE Symposium - Houston, Texas (2023)
+**Theme:** Where is Timber Going? Trends and Predictions for Timber Supply and Forest Markets During and After the COVID-19 Pandemic (May 15-17, 2023).
+
+Hosted by the **Texas A&M Forest Service**, this symposium addressed the critical shifts in global timber markets and supply chain dynamics following the pandemic.
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
+  <img src="/images/ISFRE 2023/IMG_5433.jpg" style="width: 250px; height: auto; max-height: 250px; border-radius: 4px; object-fit: contain; background: #f9f9f9;" />
+  <img src="/images/ISFRE 2023/IMG_5558.jpg" style="width: 250px; height: auto; max-height: 250px; border-radius: 4px; object-fit: contain; background: #f9f9f9;" />
+  <img src="/images/ISFRE 2023/IMG_9278.jpg" style="width: 250px; height: auto; max-height: 250px; border-radius: 4px; object-fit: contain; background: #f9f9f9;" />
+</div>
+
+---
+
 ### Society of American Foresters (SAF) Convention - Baltimore, Maryland (2022)
 Attended the SAF National Convention in Baltimore during September 2022. This event focused on the latest in forest management, policy, and research, providing a valuable opportunity to engage with forestry professionals across the United States.
 
