@@ -1,5 +1,5 @@
 /* ==========================================================================
-   NARESH'S FORESTRY THEME - LIGHT VERSION (BLUE HEADINGS)
+    NARESH'S FORESTRY THEME - LIGHT VERSION (FINALIZED)
    ========================================================================== */
 
 /* Forest-inspired Color Palette */
@@ -52,35 +52,25 @@ $sidebar-screen-min-width   : 1024px;
     --global-thead-color                : #{$lighter-gray};
 }
 
-/* --- FORCE NAVIGATION COLORS TO BLUE --- */
+/* --- 1. NAVIGATION COLORS --- */
 
-/* 1. The Main Bar background and bottom border */
 .masthead {
   background-color: #2d4c39 !important; 
   border-bottom: 3px solid #6b4e31 !important; 
 }
 
-/* 2. Your Name (Site Title) and greedy nav text */
+/* Site Title (Name) and Menu Links */
 .site-title, 
 .masthead__menu-item.site-title,
 .greedy-nav a,
-#site-title {
-  color: #52adc8 !important; /* Professional Blue */
-  font-weight: 800 !important; /* Made extra bold to see better on green */
-  text-decoration: none !important;
-}
-
-/* 3. Navigation Links (Publications, Talks, etc.) */
 .masthead__menu-item a,
-.masthead__menu-inner ul li a,
-.greedy-nav .visible-links a {
+.masthead__menu-inner ul li a {
   color: #52adc8 !important; /* Professional Blue */
-  font-weight: 700 !important;
+  font-weight: 800 !important;
+  text-decoration: none !important;
   text-transform: uppercase !important;
-  font-size: 0.95em !important;
 }
 
-/* 4. Hover effect so it turns white when touched */
 .masthead__menu-item a:hover,
 .site-title:hover,
 .greedy-nav a:hover {
@@ -88,34 +78,28 @@ $sidebar-screen-min-width   : 1024px;
   opacity: 1 !important;
 }
 
-/* 5. Fix for the "Greedy Nav" (hamburger menu and icon) */
-.greedy-nav .toggle-menu {
-  background-color: #52adc8 !important;
-}
+/* --- 2. THE ALIGNMENT FIX (Push to Right) --- */
 
-.greedy-nav:before {
-  background: #52adc8 !important; /* Vertical line color if exists */
-}
-
-/* --- ALIGN NAVIGATION TO THE RIGHT OF THE SIDEBAR --- */
-
-/* 1. Push the entire header content to the right */
+/* This targets the container holding your name and menu */
 .masthead__inner {
-  max-width: 1200px; /* Limits the width so it doesn't hit the edges */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20%; /* This 'pushes' the start of the menu to the right */
-  padding-right: 20px;
+  margin-left: 300px !important; /* Forces the text to start AFTER the sidebar */
+  max-width: 1200px;
 }
 
-/* 2. Adjustment for smaller screens so it doesn't break on mobile */
+/* Ensure the greedy-nav (menu) follows the margin */
+.greedy-nav {
+  margin-left: 0 !important; /* Resetting internal margin to avoid double-push */
+}
+
+/* Adjustment for Mobile Screens (so it doesn't break on phones) */
 @media (max-width: 1024px) {
   .masthead__inner {
-    padding-left: 5%; 
+    margin-left: 0 !important;
+    padding-left: 10px !important;
   }
 }
 
-/* 3. Ensure the Site Title (Your Name) isn't stuck to the far left */
-.site-title {
-  margin-right: 20px;
+/* Fix for "Sticky" headers if you use them */
+.sticky .masthead__inner {
+  margin-left: 300px !important;
 }
