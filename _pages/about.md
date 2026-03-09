@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-### 🌿 About Me
 
 Welcome! I’m **Naresh Khanal**, a passionate researcher blending **forest economics**, **policy**, and **regional modeling**. With an academic background spanning **Nepal** and the **United States**, I focus on sustainable forest management, creating solutions to optimize forest resources in the face of climate challenges.
 
