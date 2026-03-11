@@ -42,9 +42,9 @@ In addition to my research, I actively engage in policy discussions, such as ana
 
 ---
 
-### 📸 Personal Passion
+### 📸 Collecting Memories
 
-When I’m not deep in data, I’m likely exploring the world through my lens. Check out my [photographs](/photographs/) for a glimpse into my travels.
+Memories I have collected through conferences and field visits. Check out my [photographs](/photographs/) for a glimpse into my travels.
 
 ---
 
