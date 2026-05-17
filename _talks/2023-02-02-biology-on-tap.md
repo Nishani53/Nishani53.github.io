@@ -15,4 +15,4 @@ Below are some photos from the event:
 
 <img src="/images/bot1.jpg" width="45%" alt="Naresh Khanal presenting at Biology on TAP" /> <img src="/images/bot2.jpg" width="45%" alt="Biology on TAP Presentation Slides" />
 
-[Learn more about Biology on TAP - Lansing](https://www.facebook.com/BiologyOnTapLansing/)
+[Young Voices of Sciences: Fall 2021](https://youngvoicesofscience.org/?page_id=90)
