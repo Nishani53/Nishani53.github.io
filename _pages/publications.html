@@ -9,10 +9,12 @@ author_profile: true
 
 <p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=oUChg58AAAAJ&hl=en">Google Scholar profile</a>.</p>
 
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+
 <h2 id="journal-articles">Journal Articles</h2>
 <hr />
 
-{% for post in site.publications %}
+{% for post in sorted_publications %}
   {% if post.type == 'Journal Article' %}
     {% include archive-single.html %}
   {% endif %}
@@ -23,7 +25,7 @@ author_profile: true
 <h2 id="oped">OpEd</h2>
 <hr />
 
-{% for post in site.publications %}
+{% for post in sorted_publications %}
   {% if post.type == 'OpEd' %}
     {% include archive-single.html %}
   {% endif %}
