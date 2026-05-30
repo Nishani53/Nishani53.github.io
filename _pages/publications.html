@@ -22,6 +22,17 @@ author_profile: true
 
 <br />
 
+<h2 id="theses">Theses</h2>
+<hr />
+
+{% for post in sorted_publications %}
+  {% if post.type == 'Thesis' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<br />
+
 <h2 id="oped">OpEd</h2>
 <hr />
 
@@ -39,5 +50,6 @@ author_profile: true
 {% for post in sorted_publications %}
   {% if post.type == 'Acknowledged Contributor' %}
     {% include archive-single.html %}
+```html
   {% endif %}
 {% endfor %}
