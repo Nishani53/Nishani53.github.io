@@ -30,3 +30,14 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<br />
+
+<h2 id="acknowledgments">Contributed Research & Formal Acknowledgments</h2>
+<hr />
+
+{% for post in sorted_publications %}
+  {% if post.type == 'Acknowledgments' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
