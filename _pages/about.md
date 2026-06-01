@@ -19,10 +19,10 @@ Welcome! I’m **Naresh Khanal**, a forest economist and researcher blending **r
 
 ### 🏛️ Institutional Affiliations & Mentorship
 
-- **Forest Economics and Resource Management (FERM) Lab** | *Michigan State University*
+- **Forest Economics and Resource Management (FERM) Lab**, *Michigan State University*
   - **Role:** Alumnus & Graduate Research Assistant
   - **Advisor / Supervisor:** [Dr. Raju Pokharel](https://www.canr.msu.edu/ferm/people)
-- **SSMART Forestry Lab** | *Oregon State University*
+- **SSMART Forestry Lab**, *Oregon State University*
   - **Role:** Graduate Research Alumnus
 
 ---
