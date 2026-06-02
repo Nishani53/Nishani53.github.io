@@ -50,6 +50,7 @@ I integrate advanced economic modeling with geospatial tools to address critical
 I am passionate about translating complex academic research into public policy discourse. My commentary and Op-Eds on natural resource management, climate resilience, and macroeconomic policy have been featured in prominent international and US news outlets, including:
 
 * **The Seattle Times** (Mass timber and sustainable building economies)
+* **The Bangor News** (Spruce Budworm outbreak in Maine)
 * **Asheville Citizen-Times** (Wildfire risks, forest disturbances, and tropical storm impacts in Western NC)
 * **The Kathmandu Post** (Macroeconomic issues, currency pegs, and international forest conservation policy)
 
