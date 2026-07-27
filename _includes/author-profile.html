@@ -174,4 +174,16 @@
     </ul>
   </div>
 </div>
-<script>document.querySelectorAll('.author__urls a').forEach(a => a.target = '_blank');</script>
+{% raw %}
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    var links = document.querySelectorAll('.author__urls a');
+    for (var i = 0; i < links.length; i++) {
+      if (links[i].getAttribute('href') && !links[i].getAttribute('href').startsWith('mailto:')) {
+        links[i].setAttribute('target', '_blank');
+        links[i].setAttribute('rel', 'noopener noreferrer');
+      }
+    }
+  });
+</script>
+{% endraw %}
