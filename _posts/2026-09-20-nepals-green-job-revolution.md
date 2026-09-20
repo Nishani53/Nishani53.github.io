@@ -1,6 +1,6 @@
 ---
 title: "Nepal’s Green Job Revolution Starts in the Forests"
-date: 2026-09-20
+date: 2026-05-20
 permalink: /posts/2026/09/nepals-green-job-revolution/
 tags:
   - Forest Economics
